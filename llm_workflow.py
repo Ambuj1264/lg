@@ -58,6 +58,6 @@ workflow = app.invoke({"question": "What is the capital of France?"})
 print(workflow)
 
 # print the graph
-print(app.get_graph().draw_ascii())
+# print(app.get_graph().draw_ascii())
 
 

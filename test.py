@@ -65,4 +65,4 @@ workflow = app.invoke({"weight": 70, "height": 1.75})
 print(workflow)
 
 
-print(app.get_graph().draw_ascii())
+# print(app.get_graph().draw_ascii())
