@@ -12,7 +12,6 @@ class BatsmanState(TypedDict, total=False):
     fours: int
     sixes: int
     innings: int
-
     sr: float
     bpb: float
     boundary_percentage: float
